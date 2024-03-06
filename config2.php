@@ -5,5 +5,5 @@
 define('SERVER_CAP', 2000);
 
 
-define('EXPIRATION_DATE', strtotime('2025-12-30'));
+define('EXPIRATION_DATE', strtotime('2024-02-05'));
 ?>
